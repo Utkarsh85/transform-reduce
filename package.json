@@ -1,0 +1,33 @@
+{
+  "name": "transform-reduce",
+  "version": "1.0.0",
+  "description": "Use stream transform in a reducer fashion",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "stream",
+    "transform",
+    "reduce"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/Utkarsh85/transform-reduce/issues"
+  },
+  "homepage": "https://github.com/Utkarsh85/transform-reduce#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utkarsh85/transform-reduce.git"
+  }
+}
